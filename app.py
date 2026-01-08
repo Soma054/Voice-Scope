@@ -1,0 +1,1 @@
+<COPY CONTENTS OF voice_scope_app.py HERE>
