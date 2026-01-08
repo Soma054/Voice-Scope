@@ -1,1 +1,4 @@
-<COPY CONTENTS OF voice_scope_app.py HERE>
+from voice_scope_app import main
+
+if __name__ == "__main__":
+    main()
